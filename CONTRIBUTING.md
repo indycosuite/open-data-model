@@ -8,4 +8,4 @@
 
 ## Indyco
 
-You need **[indyco Builder]** (http://www.indyco.com/builder) to design your open data model and **[indyco Explorer]** (http://www.indyco.com/explorer) to browse it. We created an ad hoc 1-year license for those who will join this project: if you are going to contribute please email us at [info@indyco.com] (mailto:info@indyco.com).
+You need [indyco Builder] (http://www.indyco.com/builder) to design your open data model and [indyco Explorer] (http://www.indyco.com/explorer) to browse it. We created an ad hoc 1-year license for those who will join this project: if you are going to contribute please email us at [info@indyco.com] (mailto:info@indyco.com).
