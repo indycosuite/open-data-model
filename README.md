@@ -1,3 +1,5 @@
+# Open Data Challenge
+
 Open Data Culture is spreading, and every public entity is trying to publish their data in order to take part in the great Open Data party. 
 
 ## Is governments’ transparency improving?
@@ -12,4 +14,4 @@ Which information joins different Open Data? Lots of countries around the world 
 
 ### Contributing
 
-All contributions are welcome, please read our [contributing guide] (contributing.md).
+All contributions are welcome, please read our [contributing guide] (CONTRIBUTING.md).
