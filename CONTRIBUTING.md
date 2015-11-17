@@ -1,6 +1,8 @@
 # Contributing to the Open Data Challenge
 
-## Getting started with Git and GitHub
+## Getting started
+
+**Getting started with Git and GitHub**
 
 * [Setting up Git for Windows and connecting to GitHub] (http://help.github.com/win-set-up-git/)
 * [Forking a GitHub repository] (http://help.github.com/fork-a-repo/)
