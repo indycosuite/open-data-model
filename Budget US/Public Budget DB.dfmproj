@@ -1,0 +1,40 @@
+<project name="Public Budget DB" id="69a8fe54-04df-44be-8413-5bb5b6a9a4f8" toolversion="2.12.0.0">
+  <datawarehouse>
+    <datamarts>
+      <datamart name="Public Budget US" id="03573a08-ca47-4036-a761-5104a1e4ce94">
+        <factschemas>
+          <factschema id="2bd0990a-3412-4adb-b8fa-4f1ca36aca8d" />
+          <factschema id="621d9f01-eb22-4c32-b5ee-75a393c80e94" />
+          <factschema id="1c2abfbb-2b5e-4aeb-aa5a-8ee880405a24" />
+        </factschemas>
+      </datamart>
+    </datamarts>
+  </datawarehouse>
+  <conformedHierarchies>
+    <conformedHierarchy id="7e13ce63-63c9-4d18-85dc-b866cdc70ce3" />
+    <conformedHierarchy id="3d387d45-5ea4-49e3-9fb7-8c32a9a64a1a" />
+    <conformedHierarchy id="edd0ee33-005e-4f93-b353-258047ac2599" />
+    <conformedHierarchy id="6cc43769-72aa-407a-9017-8beb1f5638bb" />
+    <conformedHierarchy id="834dc077-9a2e-4976-9b5b-db6dc6c2bb4e" />
+    <conformedHierarchy id="c3918226-d110-48b0-ae6c-543664b62451" />
+    <conformedHierarchy id="e957bfe0-6746-4c73-b12c-0a7b402e9192" />
+  </conformedHierarchies>
+  <views />
+  <areas />
+  <customProperties>
+    <attributes />
+    <measures />
+  </customProperties>
+  <projectOptions>
+    <logicModelingProfile name="starschema" isEditable="false" />
+    <logicModelingNamePrefixes DimensionTableNamePrefix="DT_" FactTableNamePrefix="FT_" BridgeTableNamePrefix="BT_" NavigationTableNamePrefix="NAV_" JunkTableNamePrefix="JT_" PrimaryKeyNamePrefix="PK_" ForeignKeyNamePrefix="FK_" TableIdNamePrefix="ID_" ConformedDimensionViewNamePrefix="DTV_" TemporalScenarioRollbackFromFieldName="FROM" TemporalScenarioRollbackToFieldName="TO" TemporalScenarioRollbackMasterFieldName="MASTER" />
+    <logicalModelingDefaultTypes>
+      <attributes name="VARCHAR" length="255" scale="-1" precision="-1" />
+      <measures name="DECIMAL" length="-1" scale="3" precision="18" />
+      <surrogates name="INT" length="-1" scale="-1" precision="-1" />
+      <temporalScenarioRollbackFromType name="DATE" length="-1" scale="-1" precision="-1" />
+      <temporalScenarioRollbackToType name="DATE" length="-1" scale="-1" precision="-1" />
+      <temporalScenarioRollbackMasterType name="INT" length="-1" scale="-1" precision="-1" />
+    </logicalModelingDefaultTypes>
+  </projectOptions>
+</project>

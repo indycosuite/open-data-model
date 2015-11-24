@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ico="http://iconsulting.biz/dfm" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="node" attr.type="fact" />
+  <key id="d1" for="node" attr.type="attribute" />
+  <key id="d2" for="edge" attr.type="arc" />
+  <graph id="G" edgedefault="directed" toolversion="2.12.0.0" factSchemaId="834dc077-9a2e-4976-9b5b-db6dc6c2bb4e" name="Grant">
+    <node id="9765aa58-d0c7-447f-847a-eccaadc2cae6">
+      <data key="d0">
+        <ico:Fact Name="" Description="" Id="9765aa58-d0c7-447f-847a-eccaadc2cae6" X="580" Y="340" BackgroundColor="#FFFFFF" BorderColor="#FFA9A9A9" IsBoldText="false" IsItalicText="false" LoadingFrequency="" HistoricalDepth="0" AreMeasuresVisible="true" Width="0" Height="0">
+          <ico:Measures />
+          <ico:GroupsOfMeasures />
+        </ico:Fact>
+      </data>
+    </node>
+    <node id="898d1775-2a0d-4221-b35f-dfebdec98211">
+      <data key="d1">
+        <ico:Attribute Name="Grant" Description="Identifier to indicate if the outlays are grant or non-grant." Id="898d1775-2a0d-4221-b35f-dfebdec98211" X="600" Y="300" BackgroundColor="#FFFFFF" BorderColor="#00539C" IsBoldText="false" IsItalicText="false" IsDescriptive="false" IsOptional="false" IsShared="false" SampleValues="“Grant” or “Nongrant”" Note="" MasterId="00000000-0000-0000-0000-000000000000" HierarchyId="00000000-0000-0000-0000-000000000000" MasterHierarchyId="00000000-0000-0000-0000-000000000000" IsCrossDimensional="false" TemporalScenario="UpToDate" SourceTable="" SourceField="" HasHierarchyCollapsed="false">
+          <ico:customProperties />
+          <ico:logicalModeling />
+        </ico:Attribute>
+      </data>
+    </node>
+    <edge id="7972ac30-bc3d-4f84-a36e-d62328401c3b" source="9765aa58-d0c7-447f-847a-eccaadc2cae6" target="898d1775-2a0d-4221-b35f-dfebdec98211" IsBoldText="false" IsItalicText="false" HierarchyId="00000000-0000-0000-0000-000000000000" MasterHierarchyId="00000000-0000-0000-0000-000000000000" MasterId="00000000-0000-0000-0000-000000000000">
+      <data key="d2">
+        <ico:Arc Role="" IsConvergence="false" IsOptional="false" IsMultiple="false" IsRecursive="false" IndexOfRecursion="0" SourceConnectorPosition="Auto" IndexOfSameNodesLink="0" />
+      </data>
+    </edge>
+    <hierarchy id="63b7cabf-e5af-4dcd-9ed0-6babfc386c04" rootArcId="7972ac30-bc3d-4f84-a36e-d62328401c3b" name="Grant" description="" note="" />
+  </graph>
+  <additivityMatrix xmlns="" />
+</graphml>
