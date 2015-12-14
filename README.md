@@ -12,6 +12,10 @@ Opening and spreading data results in increased transparency, but what about par
 
 Which information joins different Open Data? Lots of countries around the world opened up to Open Data by following the US Data.gov example. How would it be to find relationship between all of these data for citizens and businesses, as well any other Open Data available? Join the Open Data Challenge and help us map any Open Data model.
 
+### Browse the open data models and project details
+
+While you can access and browse the Public Budget US data model on our [demo portal] (http://web-iconsulting-opendatamodelingportal.azurewebsites.net/#/projects/69a8fe54-04df-44be-8413-5bb5b6a9a4f8), you can read more about the Open Data Challenge on [our blog] (http://www.indyco.com/blog/news/open-data-challenge).
+
 ### Contributing
 
 All contributions are welcome, please read our [contributing guide] (CONTRIBUTING.md).
